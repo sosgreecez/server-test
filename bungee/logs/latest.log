@@ -82,3 +82,19 @@
 [22:03:10] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for sosgreece AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [22:03:10] [Netty Worker IO Thread #2/INFO]: [sosgreece] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [22:03:10] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:46316|sosgreece] -> UpstreamBridge has disconnected
+[22:04:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45828]: Connected via websocket
+[22:04:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45828]: Origin header is null
+[22:04:26] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45828]: Logged in as 'sosgreece'
+[22:04:26] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45828|sosgreece] -> UpstreamBridge has connected
+[22:04:26] [Netty Worker IO Thread #3/INFO]: [sosgreece|/[0:0:0:0:0:0:0:1%0]:45828] <-> ServerConnector [lobby] has connected
+[22:04:33] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45828|sosgreece] -> UpstreamBridge has disconnected
+[22:05:04] [Netty Worker IO Thread #3/INFO]: [sosgreece] disconnected with: Proxy lost connection to server.
+[22:05:04] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:45828|sosgreece] <-> DownstreamBridge <-> [lobby] has disconnected
+[22:07:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37502]: Connected via websocket
+[22:07:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37502]: Origin header is null
+[22:07:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37502]: Logged in as 'sosgreece'
+[22:07:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37502|sosgreece] -> UpstreamBridge has connected
+[22:07:26] [Netty Worker IO Thread #2/INFO]: [sosgreece|/[0:0:0:0:0:0:0:1%0]:37502] <-> ServerConnector [lobby] has connected
+[22:07:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37502|sosgreece] -> UpstreamBridge has disconnected
+[22:07:31] [Netty Worker IO Thread #2/INFO]: [sosgreece] disconnected with: Proxy lost connection to server.
+[22:07:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37502|sosgreece] <-> DownstreamBridge <-> [lobby] has disconnected
